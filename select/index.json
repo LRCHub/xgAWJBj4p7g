@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "瞬間ハートビート -tepe Remix-",
+  "base_artist": "ReGLOSS",
+  "createdAt": "2025-12-10T06:10:05.702868Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "瞬間ハートビート",
+      "artist": "ReGLOSS",
+      "has_synced": true,
+      "path": "select/01_瞬間ハートビート_ReGLOSS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "瞬間ハートビート (音乃瀬奏 SOLO ver.)",
+      "artist": "音乃瀬奏",
+      "has_synced": true,
+      "path": "select/02_瞬間ハートビート_(音乃瀬奏_SOLO_ver.)_音乃瀬奏.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "瞬間ハートビート (轟はじめ SOLO ver.)",
+      "artist": "轟はじめ",
+      "has_synced": false,
+      "path": "select/03_瞬間ハートビート_(轟はじめ_SOLO_ver.)_轟はじめ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "瞬間ハートビート (轟はじめ SOLO ver.)",
+      "artist": "ReGLOSS",
+      "has_synced": false,
+      "path": "select/04_瞬間ハートビート_(轟はじめ_SOLO_ver.)_ReGLOSS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "瞬間ハートビート",
+      "artist": "ReGLOSS",
+      "has_synced": false,
+      "path": "select/pl_01_瞬間ハートビート_ReGLOSS.txt"
+    }
+  ]
+}
